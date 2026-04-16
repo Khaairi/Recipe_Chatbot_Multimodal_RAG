@@ -74,3 +74,7 @@ Recipe_Chatbot_Multimodal_RAG/
 ├── .env                 # API Keys
 └── requirements.txt     # Python dependencies
 ```
+
+## Demo
+
+<img width="1890" height="907" alt="Screenshot 2026-02-15 231816" src="https://github.com/user-attachments/assets/58116b05-d45f-4131-be84-1b8128ac647c" />
